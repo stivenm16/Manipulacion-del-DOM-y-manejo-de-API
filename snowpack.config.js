@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://stivenm16.github.io/Manipulacion-del-DOM-y-manejo-de-API',
   },
 }

@@ -1,4 +1,5 @@
 {
+  "homepage": "https://stivenm16.github.io/Manipulacion-del-DOM-y-manejo-de-API",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
@@ -14,4 +15,5 @@
     "snowpack": "^3.0.11",
     "tailwindcss": "^2.0.2"
   }
+  
 }
